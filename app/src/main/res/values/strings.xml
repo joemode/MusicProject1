@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MusicProject</string>
+
+    <string name="account_settings">Account Settings</string>
+    <string name="action_settings">Application Settings</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="my_music">My Library</string>
+    <string name="all_music">All Music</string>
+    <string name="spotify_music">Spotify</string>
+    <string name="soundcloud_music">Soundcloud</string>
+
+    <string name="tracks">Tracks</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+    <string name="playlists">Playlists</string>
+
+    <string name="dummy">Dummy</string>
+
+    <string name="tracks_fail">Failed to load tracks</string>
+
+    <string name="track_count">%1$s Track%2$s</string>
+    <string name="album_count">%1$s Album%2$s</string>
+
+
+    <string-array name="music_type">
+        <item>All Music</item>
+        <item>My Library</item>
+        <item>Spotify</item>
+        <item>Soundcloud</item>
+    </string-array>
+
+</resources>
